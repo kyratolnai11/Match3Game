@@ -1,4 +1,4 @@
-import { Position } from "./board1";
+import { Position } from "./board3";
 import { Model } from "./model";
 
 export class Controller<T> {
